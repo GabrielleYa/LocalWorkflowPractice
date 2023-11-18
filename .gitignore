@@ -152,3 +152,4 @@ cython_debug/
 #.idea/
 Data/title-akas-us-only.csv
 Data/title.basics.tsv
+Data/Title.ratings..tsv
